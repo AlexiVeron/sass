@@ -1,0 +1,14 @@
+footer {
+    background-color: white;
+    display: grid;
+    grid-template-rows: 100%;
+    grid-template-columns: 50% 50%;
+    height: 7vh;
+    width: 100%;
+    justify-items: center;
+    align-items: center;
+    a {
+        text-decoration: none;
+        color: black;
+    }
+}

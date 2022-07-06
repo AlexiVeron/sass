@@ -6,7 +6,8 @@ header {
   justify-content: space-between;
   align-items: center; }
   header img {
-    height: 100px; }
+    height: 150px;
+    width: 150px; }
   header .logo {
     display: flex;
     align-items: center; }

@@ -14,7 +14,6 @@ header {
   header a {
     text-decoration: none;
     color: black;
-    text-transform: uppercase;
     padding-right: 3px; }
 
 footer {
@@ -56,3 +55,6 @@ main {
 .k {
   margin-left: 43%;
   padding-top: 50px; }
+
+.mys, header .logo {
+  text-transform: uppercase; }
